@@ -1,9 +1,7 @@
 # infoviz-twitch-chat
+Sentiment analysis and novel educational visualization explaining livestream chat culture/norms. 
 
-Hosted at https://clrizy.github.io/infoviz-twitch-chat
+Website/sentiment analysis/scrolling visualizations (D3, HTML, CSS,  created by Alex Gao. Tableau visualizations created by Claire Zhu.
 
-Dataset built through VADER sentiment analysis on messages scraped from the Twitch API
+Deployed at https://clrizy.github.io/infoviz-twitch-chat/ 
 
-Scrolling visualizations (D3, HTML, CSS) built by Alex Gao
-
-Tableau visualizations built by Claire Zhu
