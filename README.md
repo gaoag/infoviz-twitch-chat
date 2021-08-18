@@ -5,6 +5,7 @@ Website/sentiment analysis/scrolling visualizations (D3, HTML, CSS, other Javasc
 
 Tableau visualizations created by Claire Zhu.
 
-Writeup here [link to user testing results]
+Writeup here ![link to user testing results]()
+
 Deployed at https://clrizy.github.io/infoviz-twitch-chat/ 
 
